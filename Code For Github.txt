@@ -1,0 +1,8 @@
+1.Introduction.
+2.Code to Start.
+3. git init
+4.git add . or git add ['filename']
+5. git commit -m "My first File"
+6. git remote add origin https://github.com/yourusername/your-repo-name.git
+7. git pull origin master
+8. git push origin master
