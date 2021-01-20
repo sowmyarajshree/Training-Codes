@@ -7,3 +7,4 @@
 7. git pull origin master
 8. git push origin master
 9.After creating a master by using the terminal we can create a branch for master
+In next to this simple codes Branch we can just make simple python codes and C codes
