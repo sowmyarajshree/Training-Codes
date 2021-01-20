@@ -6,3 +6,4 @@
 6. git remote add origin https://github.com/yourusername/your-repo-name.git
 7. git pull origin master
 8. git push origin master
+9.After creating a master by using the terminal we can create a branch for master
